@@ -1,0 +1,58 @@
+# Compiled Object files
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+
+# Build directories
+build/
+Build/
+out/
+bin/
+obj/
+Debug/
+Release/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Dependency / package artifacts
+CMakeFiles/
+cmake-build-debug/
+cmake-build-release/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Visual Studio files
+*.vcxproj.user
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.db
+*.opendb
+
+# C++ generated files
+*.pch
+*.pdb
+*.ilk
+*.aps
